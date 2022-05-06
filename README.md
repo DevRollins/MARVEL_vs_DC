@@ -2,6 +2,8 @@
 
 This is a fight simulator between characters of the Marvel and DC universes. This method demonstrates the understanding of polymorphism and inheritance using Java. There are ten user options. FIGHT, ADDCHARACTER, SEARCHCHARACTER, ADDPOWER, DISPLAYSTATS, DISPLAYHEROES, DISPLAYVILLAINS, DISPLAYMARVEL, DISPLAYDC, and QUIT. 
 
+****Note there is no exception handling in this program. Be sure to input everything as specified here.****
+
 FIGHT - On one line, first type "FIGHT" followed by a comma with the two characters you wish to fight.
 
 ADDCHARACTER - On one line, first type "ADDCHARACTER," followed by the following characteristics separated by commas:
